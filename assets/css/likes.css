@@ -1,0 +1,46 @@
+.xai-likes-wrapper {
+    display: block;
+    margin: 10px 0;
+}
+
+.xai-likes-call-to-action {
+    font-size: 12px;
+    color: #757373;
+    margin-bottom: 8px;
+}
+
+.xai-likes-container {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    font-size: 14px;
+}
+
+.xai-likes-button {
+	font-size: 14px;
+    font-weight: 500;
+    letter-spacing: 0.1px;
+    fill: var(--e-global-color-0875023);
+    color: var(--e-global-color-0875023);
+    background-color: var(--e-global-color-09106c3);
+    transition-duration: 1s;
+    border-radius: 9999px 9999px 9999px 9999px;
+    padding: 0.5rem .75rem 0.5rem .75rem;
+    cursor: pointer;
+    transition: color 0.3s;
+}
+
+/*.xai-likes-button:hover {
+	background-color: var(--e-global-color-94bb0f2);
+    color: var(--e-global-color-text);
+}
+*/
+.xai-likes-button .dashicons-heart {
+    color: var(--e-global-color-0875023);
+}
+
+.xai-likes-count {
+	color: var(--e-global-color-text);
+    font-weight: inherit;
+	text-decoration: underline;
+}

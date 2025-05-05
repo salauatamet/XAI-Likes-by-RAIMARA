@@ -1,9 +1,11 @@
 <?php
 /*
-Plugin Name: XAI Likes
+Plugin Name: XAI Likes by RAIMARA
+Plugin URI: https://github.com/salauatamet/XAI-Likes-by-RAIMARA
 Description: Легкий плагин WordPress для добавления кнопки «Мне нравится» с недельным лимитом на основе IP-адресов и интеграцией динамических тегов Elementor.
 Version: 1.1
-Author: SalauatDiin Ametov
+Author: SalauatDiiN Ametov
+Author URI: https://diinweb.aqulas.me/
 License: GPL2
 */
 
